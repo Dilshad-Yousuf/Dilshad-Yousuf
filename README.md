@@ -1,66 +1,40 @@
-# Hi, I'm [Your Name] 👋  
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&random=falsesize=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Dilshad+Ali+👨🏻‍💻;" />
+</h1>
 
-🚀 Blockchain & AI/ML Enthusiast | Building Intelligent Applications  
-🎓 5th Semester CS Student | Passionate about Web3 & Decentralized Tech  
-💻 WordPress Web Developer | Android App Creator | RAG Application Developer  
-📫 Connect with me: [LinkedIn](www.linkedin.com/in/your-profile) | [Portfolio](yourportfolio.com)  
+<h3 align="center">A Passionate AI/ML, Blockchain & Web3 Enthusiast From Pakistan</h3>
 
----
+<br/>
 
-## 👨‍💻 About Me  
-I'm a 5th-semester Computer Science student with a passion for cutting-edge technologies. My expertise includes:  
-- **Blockchain**: Developing smart contracts and decentralized applications (dApps).  
-- **AI/ML**: Building and training machine learning models for predictive analytics.  
-- **Web Development**: Creating dynamic, responsive websites using WordPress.  
-- **Android Development**: Designing user-friendly mobile applications.  
-- **RAG Applications**: Developing retrieval-augmented generation systems for advanced NLP tasks.  
+<div align="center">
+ 
+ 🚀 I'm Dilshad Ali, a dedicated CS student (6th Semester), passionate about AI-driven solutions, Blockchain, and RAG applications.
 
-I’m always eager to collaborate on innovative projects and contribute to open-source communities. Let’s connect and build something amazing together!  
+⚡ Exploring Blockchain, AI/ML, WordPress Development, and Android applications.
 
----
+🤝 Open to collaborations and learning new technologies.
 
-## 🛠️ Skills  
-- **Blockchain**: Solidity, Smart Contracts, Web3  
-- **AI/ML**: Python, TensorFlow, PyTorch, Scikit-learn  
-- **Web Development**: WordPress, HTML, CSS, JavaScript  
-- **Android Development**: Kotlin, Java, Android Studio  
-- **RAG Applications**: Hugging Face, Transformers, NLP  
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:dilshadyousufi004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-6C22A6?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+    <a href="https://www.linkedin.com/in/dilshad-ali-517a89292" target="_blank">
+     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
 
----
+ <hr/>
+ 
+<h2 align="center">🚀Languages💥Frameworks💥Tools🚀</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,javascript,express,nodejs,vscode,github,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=css,bootstrap,html,firebase,mongodb,nextjs,mysql,wordpress,android" /><br>
+</div>
 
-## 🌟 Featured Projects  
-1. **Blockchain Token Exchange**  
-   - A decentralized token exchange built on Ethereum.  
-   - [GitHub Repo](#)  
+<br/>
+<hr/>
 
-2. **AI-Powered Image Classifier**  
-   - A machine learning model to classify images using TensorFlow.  
-   - [GitHub Repo](#)  
-
-3. **Custom WordPress Theme**  
-   - A responsive WordPress theme for modern websites.  
-   - [GitHub Repo](#)  
-
-4. **Android To-Do App**  
-   - A simple and intuitive to-do app for Android.  
-   - [GitHub Repo](#)  
-
-5. **RAG Question-Answering System**  
-   - A retrieval-augmented generation system for NLP tasks.  
-   - [GitHub Repo](#)  
-
----
-
-## 📈 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)  
-
----
-
-## 🔗 Let's Connect  
-- [LinkedIn](www.linkedin.com/in/your-profile)  
-- [Portfolio](yourportfolio.com)  
-- [Email](mailto:youremail@example.com)  
-
----
-
-⭐️ From [Your Name](https://github.com/YourUsername)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilshad-ali&layout=compact&theme=midnight-purple)
