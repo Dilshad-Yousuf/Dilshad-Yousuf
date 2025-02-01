@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&random=falsesize=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Dilshad+Ali+👨🏻‍💻;" />
 </h1>
 
-<h3 align="center">A Passionate AI/ML, Blockchain & Web3 Enthusiast From Pakistan</h3>
+<h3 align="center">Blockchain Enthusiast | A Passionate about AI/ML | WordPress & Android Dev | RAG Application Developer</h3>
 
 <br/>
 
