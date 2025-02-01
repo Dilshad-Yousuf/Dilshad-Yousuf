@@ -33,8 +33,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,vscode,wordpress,git,github,androidstudio,flask" />
     <img src="https://skillicons.dev/icons?i=langchain,tensorflow,pytorch" /><br>
 </div>
-
-<h3 align="center">Languages</h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
 </div>
