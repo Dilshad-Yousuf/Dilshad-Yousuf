@@ -30,11 +30,14 @@
 <h2 align="center">🚀Languages💥Frameworks💥Tools🚀</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,javascript,express,nodejs,vscode,github,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=css,bootstrap,html,firebase,mongodb,nextjs,mysql,wordpress,android" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,wordpress,git,github,androidstudio,flask" />
+    <img src="https://skillicons.dev/icons?i=langchain,tensorflow,pytorch" /><br>
+</div>
+
+<h3 align="center">Languages</h3>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
 </div>
 
 <br/>
 <hr/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilshad-ali&layout=compact&theme=midnight-purple)
